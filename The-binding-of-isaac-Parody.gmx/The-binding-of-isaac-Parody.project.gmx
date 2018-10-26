@@ -7,11 +7,12 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_tes</sprite>
+    <sprite>sprites\spr_enemy_slime_L</sprite>
+    <sprite>sprites\spr_enemy_slime_R</sprite>
+    <sprite>sprites\spr_enemy_slime_U</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
-  <objects name="objects"/>
-  <rooms name="rooms"/>
   <help>
     <rtf>help.rtf</rtf>
   </help>
